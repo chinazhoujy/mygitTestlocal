@@ -11,4 +11,5 @@ git本地创建仓库测试，使用命令测试仓库的创建。
 
 the branch is quick and simple.
 
-the branch is test1 & test2.
+the branch is my test1 and test2.
+
