@@ -15,3 +15,4 @@ the branch is my test1 and test2.
 
 禁用fast-forward模式测试。
 
+dev stash保存后，进行内容提交。
