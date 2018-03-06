@@ -10,3 +10,5 @@ git本地创建仓库测试，使用命令测试仓库的创建。
 分支测试，创建新的分支，并用该分支进行操作。
 
 the branch is quick and simple.
+
+the branch is test1 & test2.
